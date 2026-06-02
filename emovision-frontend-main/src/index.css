@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emo-primary: #AC87C5;
+  --color-emo-secondary: #E0AED0;
+  --color-emo-bg: #FFF8E9;
+  
+  --font-fredoka: "Fredoka", sans-serif;
+}
+
+body {
+  font-family: var(--font-fredoka);
+  background-color: var(--color-emo-bg);
+}
+
+@layer utilities {
+  @keyframes breathing {
+    0%, 100% { transform: scale(1); opacity: 0.6; }
+    33% { transform: scale(1.6); opacity: 1; }
+    50% { transform: scale(1.6); opacity: 1; }
+    83% { transform: scale(1); opacity: 0.6; }
+  }
+  
+  .animate-breath {
+    animation: breathing 10s ease-in-out infinite;
+  }
+}
