@@ -168,6 +168,13 @@ Sistem kecerdasan buatan EmoVision dilatih untuk memproses teks jurnal dan menge
 
 - Graceful Error Handling: Sisi Frontend React dilengkapi dengan mekanisme interseptor error khusus. Jika layanan API eksternal (seperti limit kuota gratisan Gemini API) mengalami lonjakan trafik (503 Service Unavailable), sistem frontend akan menangkapnya secara mandiri dan menggantinya dengan pesan interaktif ramah pengguna tanpa merusak jalannya aplikasi.
 
+## Tech Stack Data Scientist
+Proyek ini dibangun menggunakan teknologi berikut:
+- **Python**: Bahasa pemrograman utama untuk pengolahan dan analisis data.
+- **Streamlit**: *Framework* utama untuk pengembangan *dashboard* interaktif.
+- **Google Colab**: Tools pengembangan berbasis *cloud* untuk kolaborasi dan pengolahan data.
+- **Kaggle**: Sumber dataset sekunder untuk riset dan pengembangan model.
+
 ---
 
 ## Data Pengembang (Capstone Team)
