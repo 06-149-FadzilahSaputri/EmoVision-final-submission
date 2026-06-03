@@ -178,6 +178,9 @@ Proyek ini dibangun menggunakan teknologi berikut:
 - **Google Colab**: Tools pengembangan berbasis *cloud* untuk kolaborasi dan pengolahan data.
 - **Kaggle**: Sumber dataset sekunder untuk riset dan pengembangan model.
 
+## Link Dashboard Interaktif Data Scientist 
+https://emovision-capstone.streamlit.app/ 
+
 ---
 
 ## Data Pengembang (Capstone Team)
