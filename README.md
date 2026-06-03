@@ -33,10 +33,13 @@
 - [ Containerization & Deployment Cloud](#-containerization--deployment-cloud)
 - [ Data Pengembang (Capstone Team)](#-data-pengembang-capstone-team)
 
+
 ---
 
 ## Gambaran Umum EmoVision
 EmoVision adalah platform kesehatan mental digital interaktif berbasis web yang dirancang sebagai ruang aman (safe space) bagi pengguna untuk mengenali, melacak, dan mengelola kondisi emosional mereka secara mandiri. Berbeda dengan aplikasi jurnal konvensional yang cenderung pasif dan searah, EmoVision hadir dengan pendekatan Multimodal yang responsif. Aplikasi ini mengombinasikan analisis teks berbasis Natural Language Processing (NLP) dan deteksi ekspresi wajah berbasis Computer Vision untuk memvalidasi perasaan pengguna secara objektif dan real-time.
+
+Notes : **Proyek capstone ini sebelumnya kami menggunakan Github Organization yang di dalamnya terdapat repository terpisah (emovision-fe, emovision-be, emovision-ai-api, emovision-data-science). Oleh karena itu, kami membuat satu repository gabungan yang baru (monorepo) khusus untuk pengumpulan berkas final. Berikut merupakan link Github Organization kami : https://github.com/EmoVision-Capstone-Project?type=source**
 
 ## Fitur Utama & Tambahan EmoVision 
 EmoVision memisahkan fungsionalitasnya ke dalam dua kategori intervensi kesehatan mental yang saling berkesinambungan:
